@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    width="200" 
+    alt="simplyReceiptBot" 
+    src="https://github.com/user-attachments/assets/7591ab2f-3556-467b-9d41-e442191d215a" />
+</p>
+
 # Simply Receipt Bot
 
 Un système automatisé de gestion des notes de frais via **Telegram** combinant OCR et IA générative — conçu pour les **indépendants, TPE et PME**.
@@ -5,6 +12,9 @@ Un système automatisé de gestion des notes de frais via **Telegram** combinant
 [![Java Version](https://img.shields.io/badge/Java-21-brightgreen)](https://www.oracle.com/java/)
 
 ---
+
+![gif_simplyReceiptBot](https://github.com/user-attachments/assets/e1997f87-bb62-436a-b86b-61edcc86b6d0)
+
 
 ## 🚀 Aperçu
 
