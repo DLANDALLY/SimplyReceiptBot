@@ -13,7 +13,9 @@ Un système automatisé de gestion des notes de frais via **Telegram** combinant
 
 ---
 
-![Demo](https://github.com/user-attachments/assets/e1997f87-bb62-436a-b86b-61edcc86b6d0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1997f87-bb62-436a-b86b-61edcc86b6d0" width="250"/>
+</p>
 
 
 ## 🚀 Aperçu
