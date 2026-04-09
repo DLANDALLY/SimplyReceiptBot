@@ -2,7 +2,7 @@
   <img 
     width="200" 
     alt="simplyReceiptBot" 
-    src="https://github.com/user-attachments/assets/7591ab2f-3556-467b-9d41-e442191d215a" />
+    src="https://github.com/user-attachments/assets/8eefa559-31d9-4264-a3d4-b1bdf75ca7d9" />
 </p>
 
 # Simply Receipt Bot
